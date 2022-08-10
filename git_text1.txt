@@ -1,1 +1,2 @@
 collaborating with others using github is an amazing tool
+Using the git pull saves some time
