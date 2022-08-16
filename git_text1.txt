@@ -1,2 +1,3 @@
 collaborating with others using github is an amazing tool
 Using the git pull saves some time
+Whereas changes can be committed to the local repo if no collaboration is needed, github facilitates collaboration with several people remotely
